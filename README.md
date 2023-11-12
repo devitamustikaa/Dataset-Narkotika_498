@@ -31,6 +31,24 @@ Berikut adalah dataset Putusan Pidana Narkotika Pengadilan Negeri Denpasar. Data
 3. **Gunakan sesuai Kebutuhan:**
    - Manfaatkan dataset sesuai kebutuhan penelitian, analisis, atau pengembangan Anda.
 
+## File Overview.xlsx 
+
+Overview.xlsx adalah file Excel yang berisi rangkuman putusan pengadilan terkait kasus pidana narkotika di Pengadilan Negeri Denpasar. Dataset ini dirancang untuk memberikan pandangan komprehensif mengenai berbagai aspek penting dari putusan hukum, seperti nomor putusan, lembaga peradilan, barang bukti, dan amar putusan.
+
+## Kolom yang Tersedia
+
+1. **Nomor Putusan:**
+   - Nomor unik yang digunakan untuk mengidentifikasi setiap putusan pengadilan.
+
+2. **Lembaga Peradilan:**
+   - Nama lembaga peradilan yang menangani kasus tersebut, seperti Pengadilan Negeri Denpasar.
+
+3. **Barang Bukti:**
+   - Informasi mengenai barang bukti yang terkait dengan kasus, memberikan gambaran tentang fakta-fakta yang dihadapi di persidangan.
+
+4. **Amar Putusan:**
+   - Rangkuman singkat dari amar putusan, mencakup keputusan akhir hakim terkait kasus tersebut.
+
 
 ## Hak Cipta
 
